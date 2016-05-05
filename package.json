@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "systemjs": "^0.19.27",
+    "systemjs-builder": "^0.15.16"
+  }
+}
