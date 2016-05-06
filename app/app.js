@@ -1,4 +1,4 @@
-var angular = require('node_modules/angular/angular.min.js'),
+var angular = require('angular'),
     quotesModule = require('./quotes/quotes.js');
 
 angular.module('systemjs-example', [
